@@ -1,6 +1,6 @@
 准备立正ing...
 - 👋 Hi, I’m @hyfhaozero
-- 👀 I’m interested in: C, Lua, V, nodejs
+- 👀 I’m interested in: Rust,Python,Typescript,Nodejs
 - 📫 How to reach me: hyfhao@outlook.com
 
 <!---
